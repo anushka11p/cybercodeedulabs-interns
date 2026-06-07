@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cybercodeedulabs-interns/static/css/main.d30364b2.css",
+    "main.js": "/cybercodeedulabs-interns/static/js/main.ec0d8178.js",
+    "index.html": "/cybercodeedulabs-interns/index.html",
+    "main.d30364b2.css.map": "/cybercodeedulabs-interns/static/css/main.d30364b2.css.map",
+    "main.ec0d8178.js.map": "/cybercodeedulabs-interns/static/js/main.ec0d8178.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d30364b2.css",
+    "static/js/main.ec0d8178.js"
+  ]
+}
