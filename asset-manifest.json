@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cybercodeedulabs-interns/static/css/main.3d8ddd80.css",
-    "main.js": "/cybercodeedulabs-interns/static/js/main.92b5af5d.js",
+    "main.css": "/cybercodeedulabs-interns/static/css/main.9c7f3f10.css",
+    "main.js": "/cybercodeedulabs-interns/static/js/main.62520b96.js",
     "index.html": "/cybercodeedulabs-interns/index.html",
-    "main.3d8ddd80.css.map": "/cybercodeedulabs-interns/static/css/main.3d8ddd80.css.map",
-    "main.92b5af5d.js.map": "/cybercodeedulabs-interns/static/js/main.92b5af5d.js.map"
+    "main.9c7f3f10.css.map": "/cybercodeedulabs-interns/static/css/main.9c7f3f10.css.map",
+    "main.62520b96.js.map": "/cybercodeedulabs-interns/static/js/main.62520b96.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d8ddd80.css",
-    "static/js/main.92b5af5d.js"
+    "static/css/main.9c7f3f10.css",
+    "static/js/main.62520b96.js"
   ]
 }
